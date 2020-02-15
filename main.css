@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+
+}
+.ping{float: unset;
+    text-align: center;
+    }
+    .wl{
+font-style: inherit;
+text-align: center;
+}
+.wl p{
+    font-size: 30px;
+} 
+.wl span{
+    font-size: 40px;
+    font-style: unset;
+}   
+.sg {
+    text-align: center;
+}
+.em{
+    margin: 20px;
+    padding: 30px 500px 20px 500px;
+}
+button{
+    background-color: blue;
+}
+.pic {
+    align-self: center;
+    padding: 2px 500px 10px 400px;   
+}
+
